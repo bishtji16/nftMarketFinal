@@ -1,0 +1,6 @@
+node_modules
+.next
+.secret
+
+# Local Netlify folder
+.netlify
